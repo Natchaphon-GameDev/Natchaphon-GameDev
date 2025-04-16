@@ -41,6 +41,12 @@
   
 <!--START_SECTION:waka-->
 
+```Go
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
   
