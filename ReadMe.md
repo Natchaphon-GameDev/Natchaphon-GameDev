@@ -36,10 +36,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Natchaphon-GameDev&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy Me Some Coffee 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@NatchaphonSiri) 
   
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
   
