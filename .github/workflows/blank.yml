@@ -28,6 +28,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "Natchaphon-GameDev"
+          COMMIT_EMAIL: "nsp.gamedev@gmail.com"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
