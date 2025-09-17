@@ -40,16 +40,10 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@NatchaphonSiri) 
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%203%20mins-blue)
 
-```Go
-Total Time: 297 hrs 3 mins
 
-C#               292 hrs 2 mins  ████████████████████████▓   98.31 %
-Text             2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-UnityYaml        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
+ Last Updated on 17/09/2025 01:17:02 UTC
 <!--END_SECTION:waka-->
 
   
