@@ -40,16 +40,43 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@NatchaphonSiri) 
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2052%20mins-blue?style=flat)
 
-```Go
-Total Time: 337 hrs 52 mins
+**I'm an Early 🐤** 
 
-C#               329 hrs 45 mins       ████████████████████████▒   97.60 %
-Text             2 hrs 42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-ShaderLab        2 hrs 11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-HLSL             32 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+```text
+🌞 Morning                376 commits         ██████████░░░░░░░░░░░░░░░   40.96 % 
+🌆 Daytime                185 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌃 Evening                284 commits         ████████░░░░░░░░░░░░░░░░░   30.94 % 
+🌙 Night                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Tuesday                  191 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Sunday                   176 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 07/03/2026 00:27:12 UTC
 <!--END_SECTION:waka-->
 
   
